@@ -39,10 +39,10 @@ The goal of this system is to reduce manual effort and improve efficiency throug
 ## 📸 Workflow Preview
 
 <p align="center">
-  <img src="./assets/workflow.png" width="700"/>
+  <img src="./assets/Screenshot.png" width="700"/>
 </p>
 
-**Figure:** End-to-end AI automation workflow showing request → processing → response generation
+**Figure:** End-to-end AI automation workflow showing request → processing → response generation  
 
 ---
 
