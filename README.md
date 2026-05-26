@@ -28,14 +28,24 @@ The goal of this system is to reduce manual effort and improve efficiency throug
 ---
 
 ## 🛠 Tech Stack
-- ⚙️ n8n (Workflow Automation)
-- 🤖 AI Model / OpenAI API
-- 🌐 Webhooks
-- 🔗 REST APIs
-- 🧩 Conditional Logic & Nodes
+- ⚙️ n8n (Workflow Automation)  
+- 🤖 AI Model / OpenAI API  
+- 🌐 Webhooks  
+- 🔗 REST APIs  
+- 🧩 Conditional Logic & Nodes  
 
 ---
 
 ## 📸 Workflow Preview
-![Screenshoot](./assets/workflow.png)
 
+<p align="center">
+  <img src="./assets/workflow.png" width="700"/>
+</p>
+
+**Figure:** End-to-end AI automation workflow showing request → processing → response generation
+
+---
+
+## 👩‍💻 Author
+Anshika Yadav  
+BCA Student | AI Automation Enthusiast
