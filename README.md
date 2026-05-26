@@ -37,8 +37,5 @@ The goal of this system is to reduce manual effort and improve efficiency throug
 ---
 
 ## 📸 Workflow Preview
-![Workflow Screenshot](./assets/workflow.png)
+![Screenshoot](./assets/workflow.png)
 
----
-
-## 📂 Project Structure
